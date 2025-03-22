@@ -1,0 +1,26 @@
+Write 4 classes of stack operations, the stack receives input of characters, each input size changes dynamically.
+CoinChange (with limited coins), Product of Array except for self
+One question on Game theory (min-max problem)
+What is your understanding of the min-max problem in Game theory?
+Rest API processing Hardware booting sequence
+Fizzbuzz coding challenge with a twist.
+How would you design a secure ticketing system that's used in house and by vendors?
+Describe a time when you had to push back on someone's request.
+Describe a git workflow.
+Mostly related to Python coding Architecture designing of application deployment
+Why do you want to work for Apple?
+Can you provide an example of how you have used Python in previous projects?
+How would you approach solving the Product of Array except for self problem?
+Can you explain how you would solve the CoinChange problem with limited coins?
+How do you handle contingencies in your work?
+Can you describe your experience with DevOps management and the SDLC process?
+Can you explain your experience with Bash scripting?
+Can you write 4 classes of stack operations?
+How would you handle a stack that receives input of characters with dynamically changing sizes?
+What is Hardware booting sequence and how does it work?
+Can you explain how to process a Rest API?
+How would you design a secure ticketing system that is used in-house and by vendors?
+Tell me about the career choices you made 10 years ago.
+Can you explain your approach to architecture designing for application deployment?
+Generic debugging and software leat code medium questions
+system design, Top 10 TV shows - Lot of behavioral questions. - log parsing coding question - Linux basic questions and commands - Some git questions
